@@ -1,7 +1,7 @@
 # MLPR_lab-
 
 ![Wandb Dashboard](https://github.com/manyamittal04/MLPR_lab-/blob/main/wandbdash.png)
-![Faces Detected](https://github.com/manyamittal04/MLPR_lab-/blob/main/Faculty_faces_detected.pn)
+![Faces Detected](https://github.com/manyamittal04/MLPR_lab-/blob/main/Faculty_faces_detected.png)
 ![Clustered Faces](https://github.com/manyamittal04/MLPR_lab-/blob/main/Clustered_faces_plot.png)
 ![Clustered Faces with Centroids](https://github.com/manyamittal04/MLPR_lab-/blob/main/centroid_cluster_plot.png)
 ![Shashi Tharoor Detected Face](https://github.com/manyamittal04/MLPR_lab-/blob/main/temp_image_detected.png)
