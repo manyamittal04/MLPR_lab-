@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-15.0-arm64-arm-64bit",
+  "python":  "CPython 3.9.6",
+  "startedAt":  "2025-02-26T13:43:26.191013Z",
+  "program":  "/Users/manyamittal/Desktop/codes/MLPR lab/MLPR_lab-/manya_lab5.ipynb",
+  "codePath":  "manya_lab5.ipynb",
+  "git":  {
+    "remote":  "https://github.com/manyamittal04/MLPR_lab-",
+    "commit":  "808e4d12faa170c899c2e821c2d3fdf8a7bd636e"
+  },
+  "email":  "manya.mittal.ug23@plaksha.edu.in",
+  "root":  "/Users/manyamittal/Desktop/codes/MLPR lab/MLPR_lab-",
+  "host":  "Manyas-MacBook-Pro.local",
+  "executable":  "/Users/manyamittal/Desktop/codes/MLPR lab/.venv/bin/python",
+  "codePathLocal":  "manya_lab5.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "228173557760"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "228173557760"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "8589934592"
+  }
+}

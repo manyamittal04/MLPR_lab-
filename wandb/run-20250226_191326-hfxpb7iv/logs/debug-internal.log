@@ -1,0 +1,8 @@
+{"time":"2025-02-26T19:13:26.194781+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/Users/manyamittal/Desktop/codes/MLPR lab/MLPR_lab-/wandb/run-20250226_191326-hfxpb7iv/logs/debug-core.log"}
+{"time":"2025-02-26T19:13:26.712912+05:30","level":"INFO","msg":"created new stream","id":"hfxpb7iv"}
+{"time":"2025-02-26T19:13:26.712994+05:30","level":"INFO","msg":"stream: started","id":"hfxpb7iv"}
+{"time":"2025-02-26T19:13:26.713015+05:30","level":"INFO","msg":"handler: started","stream_id":"hfxpb7iv"}
+{"time":"2025-02-26T19:13:26.713125+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hfxpb7iv"}
+{"time":"2025-02-26T19:13:26.713185+05:30","level":"INFO","msg":"sender: started","stream_id":"hfxpb7iv"}
+{"time":"2025-02-26T19:13:27.161928+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-26T19:13:27.303517+05:30","level":"INFO","msg":"Pausing system monitor"}
