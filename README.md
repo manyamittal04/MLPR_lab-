@@ -1,5 +1,7 @@
 # MLPR_lab-
 
+![Faces Detected](https://github.com/manyamittal04/MLPR_lab-/blob/main/Faculty_faces_detected.png)
+
 
 ## Report
 
